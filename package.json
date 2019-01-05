@@ -1,13 +1,18 @@
 {
-  "name": "vue-pageend-load",
+  "name": "vue-mobile-pageend-load",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "vue滑动到页面底部加载下一页功能",
+  "author": "haorooms博客，confidence68@126.com",
   "scripts": {
     "start": "npm run serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "license": "ISC",
+  "main": "src/components/vue-scroll.vue",
+  "module": "src/components/vue-scroll.vue",
   "dependencies": {
     "axios": "^0.18.0",
     "node-sass": "^4.9.3",
