@@ -32,6 +32,8 @@ npm run lint
 
 ```
 npm install vue-mobile-pageend-load -S
+
+import mypageScroll from "vue-mobile-pageend-load";
 ```
 
 具体使用请参考 https://github.com/confidence68/vue_mobile_scrollLoadpage/blob/master/src/App.vue
