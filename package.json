@@ -1,9 +1,13 @@
 {
   "name": "vue-mobile-pageend-load",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "vue滑动到页面底部加载下一页功能",
   "author": "haorooms博客，confidence68@126.com",
+  "repository": { 
+    "type": "git",
+    "url": "git@github.com:confidence68/vue_mobile_scrollLoadpage.git" 
+    }, 
   "scripts": {
     "start": "npm run serve",
     "serve": "vue-cli-service serve",

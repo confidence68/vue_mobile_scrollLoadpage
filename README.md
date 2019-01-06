@@ -39,6 +39,8 @@ import mypageScroll from "vue-mobile-pageend-load";
 具体使用请参考 https://github.com/confidence68/vue_mobile_scrollLoadpage/blob/master/src/App.vue
 
 
+## 相关文章
 
+相关详细资料请看我的博客：https://www.haorooms.com/post/vue-scroll-nextpage
 
 [1]:https://raw.githubusercontent.com/confidence68/vue_mobile_scrollLoadpage/master/show.gif
