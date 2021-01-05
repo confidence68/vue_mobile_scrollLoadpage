@@ -18,7 +18,7 @@
   "main": "src/components/vue-scroll.vue",
   "module": "src/components/vue-scroll.vue",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "node-sass": "^4.9.3",
     "sass-loader": "^7.1.0",
     "vue": "^2.5.17"
